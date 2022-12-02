@@ -3,8 +3,7 @@
 "description": "Ich bin kein Einhorn",
 "ticker": "ESPNO",
 "homepage": "https://en.wikipedia.org/wiki/Unicorn"
-}
-{
+
     "verification":"ef3dea8a552d0f034f",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
     "info": {
