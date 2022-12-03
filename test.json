@@ -8,25 +8,18 @@
         "social": {
             "twitter_handle": "Cryptobus_FM",
             "telegram_handle": "Cryptobus_fm",
-            "facebook_handle": "",
             "youtube_handle": "@Cryptobus_FM",
-            "twitch_handle": "",
             "discord_handle": "Cryptobus.FM#0001",
-            "github_handle": "",
-            "patreon_handle": "",
             "linkedin_handle": "cryptobus-fm",
             "ada_handle": "$cryptobus_FM"
         },
         "company": {
             "name": "Cryptobus FM",
-            "addr": "",
             "city": "Liechtenstein",
             "country": "Liechtenstein",
-            "company_id": "",
-            "vat_id": ""
         },
         "about": {
-            "me": "🎙️ Podcast in - Where personality, becomes history | #Crypto",
+            "me": "🎙️ Podcast - Where personality, becomes history | #Crypto | https://Cryptobus.FM",
             "server": "Hosted in Liechtenstein",
             "company": "Cryptobus FM"
         }
